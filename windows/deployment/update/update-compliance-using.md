@@ -33,7 +33,7 @@ Update Compliance:
 - Provides all of the above data in [Log Analytics](#using-log-analytics), which affords additional querying and export capabilities.
 
 ## The Update Compliance tile
-After Update Compliance has successfully been [added to your Azure subscription](update-compliance-get-started.md#add-update-compliance-to-your-azure-subscription), you'll see this tile:
+After Update Compliance has successfully been [added to your Azure subscription](update-compliance-get-started.md#add-update-compliance-to-your-azure-subscription), in the Azue portal, you'll see this tile, located in the LogSpace you created in LogAnalytics, under the General section in Workspace summary:
 
 ![Update Compliance tile no data.](images/UC_tile_assessing.png)
 
